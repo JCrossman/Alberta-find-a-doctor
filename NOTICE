@@ -1,0 +1,15 @@
+Alberta Find a Doctor MCP
+Copyright (c) 2026 Jeremy Crossman
+
+The provider-search implementation was extracted from:
+https://github.com/JCrossman/ab-health-mcp
+
+Source revision:
+5449a46b3fa52cfb003ec92e9068e533f6f33d5c
+
+The extracted code is available under the MIT License included in this
+repository.
+
+This independent project uses public directory data from
+https://albertafindaprovider.ca. It is not operated by or endorsed by the
+Government of Alberta, Alberta Health Services, or the directory operator.
